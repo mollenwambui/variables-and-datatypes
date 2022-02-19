@@ -5,7 +5,7 @@ fun main (){
     println (age)
     var phonenumber = "0714573892"
     println (phonenumber)
-     var weight ="9
+     var weight =49
      println (weight)
     val kenyan: Boolean= true
     val others: Boolean= false
