@@ -1,15 +1,15 @@
 fun main (){
     var name ="Mollen wambui"
     println (name)
-    var age = "21"
+    var age = 21
     println (age)
     var phonenumber = "0714573892"
     println (phonenumber)
-     var weight ="49"
+     var weight ="9
      println (weight)
-    val iskenyan: Boolean= true
-    val isnotkenyan: Boolean= false
-    println(iskenyan)  //output true
-    println(isnotkenyan) //output false
+    val kenyan: Boolean= true
+    val others: Boolean= false
+    println(kenyans)  //output true
+    println(others) //output false
 
 }
